@@ -1,6 +1,6 @@
 ## INFIX TO POSTFIX
 
-### ✅ Algorithm (Step Language)
+###  Algorithm
 
 **Step 1:** Create empty stack  
 **Step 2:** Scan expression from left to right  

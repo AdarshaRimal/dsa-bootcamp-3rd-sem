@@ -1,6 +1,6 @@
 ## INFIX TO PREFIX
 
-### ✅ Algorithm 
+###  Algorithm 
 
 **Step 1:** Reverse the infix expression  
 **Step 2:** Replace `'('` with `')'` and vice versa  
